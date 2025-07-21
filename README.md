@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Graduate Student @ Georgia Tech
 -------------------------------
 
-I'm a graduate student at the Georgia Institute of Technology, specializing in Computing Systems. I've worked on a variety of projects involving RISC-V assembly, C, and C++, and Python. More recently, I completed undergraduate research at Georgia State University involving thermal, airflow, and flow rate analysis in a high performance system. For my capstone project, I expanded on my research project by building a computer benchmark analyzer desktop application.
+I'm a graduate student at the Georgia Institute of Technology, specializing in Computing Systems. I've worked on a variety of projects involving RISC-V assembly, C, C++, and Python. More recently, I completed undergraduate research at Georgia State University involving thermal, airflow, and flow rate analysis in a high performance system. For my capstone project, I expanded on my research project by building a computer benchmark analyzer desktop application.
 
 *   🌍  I'm based in Atlanta, Georgia
 *   🖥️  See my portfolio at [LinkedIn](http://meredith-berenson)
